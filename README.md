@@ -70,13 +70,4 @@ Built by **Preet Kaur**
 `cybersecurity` `soc-analyst` `threat-intelligence` 
 `mitre-attack` `siem` `blue-team` `incident-response`
 `security-operations` `splunk` `ctf`
-cybersecurity
-soc-analyst
-threat-intelligence
-mitre-attack
-siem
-blue-team
-incident-response
-splunk
-security-operations
-interactive
+
