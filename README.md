@@ -52,7 +52,7 @@ SOC context and MITRE ATT&CK technique references.
 
 ## 🚀 Live Demo
 
-👉 [Play the Simulator](https://yourusername.github.io/soc-threat-triage-simulator)
+👉 [Play the Simulator](https://preetkaur3535ok.github.io/soc-threat-triage-simulator)
 
 ## 👩‍💻 About the Author
 
